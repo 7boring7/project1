@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/project1.dir/src/main.cpp.o -o project1   -L/root/learnProject/project1/lib
